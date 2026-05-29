@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\class_0529-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\class_0529-1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\class_0529-1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\class_0529-1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1\class_0529-1\bin\Debug\net10.0\class_0529-1.exe
+C:\Users\Administrator\Desktop\1\class_0529-1\bin\Debug\net10.0\class_0529-1.deps.json
+C:\Users\Administrator\Desktop\1\class_0529-1\bin\Debug\net10.0\class_0529-1.runtimeconfig.json
+C:\Users\Administrator\Desktop\1\class_0529-1\bin\Debug\net10.0\class_0529-1.dll
+C:\Users\Administrator\Desktop\1\class_0529-1\bin\Debug\net10.0\class_0529-1.pdb
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\class_0529-1.dll
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\refint\class_0529-1.dll
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\class_0529-1.pdb
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\class_0529-1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\1\class_0529-1\obj\Debug\net10.0\ref\class_0529-1.dll
